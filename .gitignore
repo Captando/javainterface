@@ -1,0 +1,25 @@
+# Build / IDE
+.idea/
+.vscode/
+*.iml
+/out/
+/build/
+/bin/
+
+# Gradle
+.gradle/
+/gradle-app.setting
+
+# Logs / misc
+*.log
+hs_err_pid*
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Archives temporários
+*.zip
+*.tar
+*.tar.gz
+*.tmp
